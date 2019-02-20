@@ -23,7 +23,7 @@ Wednesdays, 10.15 - 11.45am
 * Mar 20 *Intro. From Spiking Models to Population Rate Part I* (Laureline Logiaco)  
 * Mar 27 *From Spiking Models to Population Rate Part II* (Laureline Logiaco)  
 * Apr 03 *Inhibition Stabilized Networks & Supralinear Stabilized Networks* (Mario Dipoppa)  
-* Apr 10 *Neural Variability in Rate Models, Appropriateness Spiking vs. Rate Models* (Mario Dipoppa)  
+* Apr 10 *Neural Variability in Rate Models, Spiking vs. Rate Models* (Mario Dipoppa)  
 * Apr 17 *Equilibrium Theory for Hopfield Model* (Alessandro Ingrosso)  
 * Apr 24 *Dynamic Mean Field Theory of Chaotic Rate Networks* (Alessandro Ingrosso)  
 
