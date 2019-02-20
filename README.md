@@ -1,6 +1,3 @@
-# **[Seminar on Advanced Topics in Theoretical Neuroscience - Columbia University 2019](https://ctn.zuckermaninstitute.columbia.edu/courses)** 
-
-
 ## Meetings:
 Wednesdays, 10.15 - 11.45am
 
