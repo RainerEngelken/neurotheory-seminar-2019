@@ -9,30 +9,30 @@ Wednesdays, 10.15 - 11.45am
 
 ## Schedule
 ### Encoding and Decoding
-* Jan 23       <space>*Intro* (Fabio Stefanini) [Material](https://drive.google.com/open?id=1jjyByf2NE3IOj93blFpSCtpFJMUATJJY)
-* Jan 30       <space>*Linear & Logistic Regression* (Ramon Nogueira, Josh Glaser)  
-* Feb 06       <space>*GLM & Nonlinear Regression* (Ramon Nogueira, Josh Glaser)
-* Feb 13       <space>*Static Models for Dimensionality Reduction* (Matt Whiteway)
-* Feb 20       <space>*Dynamic Models for Dimensionality Reduction* (Shreya Saxena)  
-* Feb 27       <space>*Cosyne*  
-* Mar 06       <space>*Cosyne*  
-* Mar 13       <space>*Hackathon Encoding & Decoding*  
+* Jan 23 *Intro* (Fabio Stefanini) [Material](https://drive.google.com/open?id=1jjyByf2NE3IOj93blFpSCtpFJMUATJJY)
+* Jan 30 *Linear & Logistic Regression* (Ramon Nogueira, Josh Glaser)  
+* Feb 06 *GLM & Nonlinear Regression* (Ramon Nogueira, Josh Glaser)
+* Feb 13 *Static Models for Dimensionality Reduction* (Matt Whiteway)
+* Feb 20 *Dynamic Models for Dimensionality Reduction* (Shreya Saxena)  
+* Feb 27 *Cosyne*  
+* Mar 06 *Cosyne*  
+* Mar 13 *Hackathon Encoding & Decoding*  
 
 
 ### Mechanistic Models of Neural Circuits
-* Mar 20       <space>*Intro. From Spiking Models to Population Rate Part I* (Laureline Logiaco)  
-* Mar 27       <space>*From Spiking Models to Population Rate Part II* (Laureline Logiaco)  
-* Apr 03       <space>*Inhibition Stabilized Networks & Supralinear Stabilized Networks* (Mario Dipoppa)  
-* Apr 10       <space>*Neural Variability in Rate Models, Appropriateness Spiking vs. Rate Models* (Mario Dipoppa)  
-* Apr 17       <space>*Equilibrium Theory for Hopfield Model* (Alessandro Ingrosso)  
-* Apr 24       <space>*Dynamic Mean Field Theory of Chaotic Rate Networks* (Alessandro Ingrosso)  
+* Mar 20 *Intro. From Spiking Models to Population Rate Part I* (Laureline Logiaco)  
+* Mar 27 *From Spiking Models to Population Rate Part II* (Laureline Logiaco)  
+* Apr 03 *Inhibition Stabilized Networks & Supralinear Stabilized Networks* (Mario Dipoppa)  
+* Apr 10 *Neural Variability in Rate Models, Appropriateness Spiking vs. Rate Models* (Mario Dipoppa)  
+* Apr 17 *Equilibrium Theory for Hopfield Model* (Alessandro Ingrosso)  
+* Apr 24 *Dynamic Mean Field Theory of Chaotic Rate Networks* (Alessandro Ingrosso)  
 
 
 ### Learning in Recurrent Networks
-* May 01       <space>*Intro. Learning in Recurrent Networks, Backprop Through Time* (Rainer Engelken)  
-* May 08       <space>*Least-Squares, RLS, FORCE, Kalman Filters* (James Murray)  
-* May 15       <space>*Dynamic Mean Field Theory for Low-Rank Static Solutions* (Rainer Engelken)  
-* May 22       <space>*Control Theory for Low-Rank Static Solutions* (James Murray)  
-* May 29       <space>*Bonus*  
+* May 01 *Intro. Learning in Recurrent Networks, Backprop Through Time* (Rainer Engelken)  
+* May 08 *Least-Squares, RLS, FORCE, Kalman Filters* (James Murray)  
+* May 15 *Dynamic Mean Field Theory for Low-Rank Static Solutions* (Rainer Engelken)  
+* May 22 *Control Theory for Low-Rank Static Solutions* (James Murray)  
+* May 29 *Bonus*  
 
 ![visualization of low-dimensional attractor of chaotic firing-rate network by Rainer Engelken](http://www.columbia.edu/~re2365/attractor.png)
