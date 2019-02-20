@@ -35,4 +35,4 @@ Wednesdays, 10.15 - 11.45am
 * May 22 *Control Theory for Low-Rank Static Solutions* (James Murray)  
 * May 29 *Bonus*  
 
-![visualization of low-dimensional attractor of chaotic firing-rate network by Rainer Engelken](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/chaotic-attractor-firing-rate-network-dynamics-rainer_engelken.JPG)
+![visualization of low-dimensional attractor of chaotic firing-rate network by Rainer Engelken](https://github.com/RainerEngelken/neurotheory-seminar-2019/chaotic-attractor-firing-rate-network-dynamics-rainer_engelken.JPG)
