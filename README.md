@@ -9,7 +9,7 @@ Wednesdays, 10.15 - 11.45am
 * Jan 23 *Intro* (Fabio Stefanini) [Material](https://drive.google.com/open?id=1jjyByf2NE3IOj93blFpSCtpFJMUATJJY)
 * Jan 30 *Linear & Logistic Regression* (Ramon Nogueira, Josh Glaser)  
 * Feb 06 *GLM & Nonlinear Regression* (Ramon Nogueira, Josh Glaser)
-* Feb 13 *Static Models for Dimensionality Reduction* (Matt Whiteway)
+* Feb 13 *Static Models for Dimensionality Reduction* (Matt Whiteway) [EM notes by Matt Whiteway](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/em-notes-matt-whiteway.pdf)
 * Feb 20 *Dynamic Models for Dimensionality Reduction* (Shreya Saxena)  
 * Feb 27 *Cosyne*  
 * Mar 06 *Cosyne*  
