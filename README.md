@@ -9,8 +9,8 @@ Wednesdays, 10.15 - 11.45 am
 
 ## Schedule
 ### Encoding and Decoding
-* Jan 23 *Intro* (Fabio Stefanini) [Material](https://drive.google.com/open?id=1jjyByf2NE3IOj93blFpSCtpFJMUATJJY)
-* Jan 30 *Linear & Logistic Regression* (Ramon Nogueira, Josh Glaser)  [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/E%26D_I.pdf)
+* Jan 23 *Intro* (Fabio Stefanini) [Lecture](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/lec01_stefanini.pdf)  [Exercise](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/lec01_exercise.pdf)  [Notebook](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/lec01_exercise.ipynb) 
+* Jan 30 *Linear & Logistic Regression* (Ramon Nogueira, Josh Glaser) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/E%26D_I.pdf)
 * Feb 06 *GLM & Nonlinear Regression* (Ramon Nogueira, Josh Glaser) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/E%26D_II.pdf) [Notebook with Exercise](https://gist.github.com/RainerEngelken/6a17d17d4c0467d8a8430c030935a897)
 * Feb 13 *Static Models for Dimensionality Reduction* (Matt Whiteway) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/em-notes-matt-whiteway.pdf) [Notebook with Exercise](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/dim-reduction.ipynb) 
 * Feb 20 *Dynamic Models for Dimensionality Reduction* (Shreya Saxena) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/dyn-models-dim-red-notes-shreya-saxena.pdf)
