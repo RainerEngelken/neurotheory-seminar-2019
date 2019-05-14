@@ -29,8 +29,8 @@ Wednesdays, 10.15 - 11.45 am
 
 
 ### Learning in Recurrent Networks
-* May 01 *Intro. Learning in Recurrent Networks, Backprop Through Time* (Rainer Engelken)  
-* May 08 *Least-Squares, RLS, FORCE, Kalman Filters* (James Murray)  
+* May 01 *Intro. Learning in Recurrent Networks, Backprop Through Time* (Rainer Engelken) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/Backprop_RTRL_Cueva.pdf) 
+* May 08 *Least-Squares, RLS, FORCE, Kalman Filters* (James Murray)
 * May 15 *Dynamic Mean Field Theory for Low-Rank Static Solutions* (Rainer Engelken)  
 * May 22 *Control Theory for Low-Rank Static Solutions* (James Murray)  
 * May 29 *Bonus*  
