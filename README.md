@@ -22,8 +22,8 @@ Wednesdays, 10.15 - 11.45 am
 ### Mechanistic Models of Neural Circuits
 * Mar 20 *Intro. From Spiking Models to Population Rate Part I* (Laureline Logiaco) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/Logiaco_v2019.pdf)  
 * Mar 27 *From Spiking Models to Population Rate Part II* (Laureline Logiaco)  
-* Apr 03 *Inhibition Stabilized Networks & Supralinear Stabilized Networks* (Mario Dipoppa)  
-* Apr 10 *Neural Variability in Rate Models, Spiking vs. Rate Models* (Mario Dipoppa)  
+* Apr 03 *Inhibition Stabilized Networks & Supralinear Stabilized Networks* (Mario Dipoppa) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/mario-session-1.zip)  
+* Apr 10 *Neural Variability in Rate Models, Spiking vs. Rate Models* (Mario Dipoppa) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/mario-session-2.zip)   
 * Apr 17 *Equilibrium Theory for Hopfield Model* (Alessandro Ingrosso)  
 * Apr 24 *Dynamic Mean Field Theory of Chaotic Rate Networks* (Alessandro Ingrosso)  
 
