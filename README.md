@@ -32,7 +32,8 @@ Wednesdays, 10.15 - 11.45 am
 * May 01 *Intro. Learning in Recurrent Networks, Backprop Through Time* (Rainer Engelken) [Material](Cueva2018_THESIS_chapter1.pdf) 
 * May 08 *Least-Squares, RLS, FORCE, Kalman Filters* (James Murray) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/RLS_Lecture_May2019.pdf)  [Notebook with Exercise](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/FORCE_Example_Homework2.ipynb)
 * May 15 *Dynamic Mean Field Theory for Low-Rank Static Solutions* (Rainer Engelken)  
-* May 22 *Control Theory for Low-Rank Static Solutions* (James Murray)  
+* May 22 *Control Theory for Low-Rank Static Solutions* (James Murray) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/RNN_Stability_Lecture_JM.pdf)
+
 * May 29 *Bonus*  
 
 ![visualization of low-dimensional attractor of chaotic firing-rate network by Rainer Engelken](chaotic-attractor-firing-rate-network-dynamics-rainer_engelken.JPG)
