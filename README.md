@@ -20,8 +20,8 @@ Wednesdays, 10.15 - 11.45 am
 
 
 ### Mechanistic Models of Neural Circuits
-* Mar 20 *Intro. From Spiking Models to Population Rate Part I* (Laureline Logiaco) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/Logiaco_v2019.pdf)  [Material](https://neuronaldynamics.epfl.ch/online/Ch14.S1.html) 
-[Material](https://neuronaldynamics.epfl.ch/online/Ch14.Sx2.html) 
+* Mar 20 *Intro. From Spiking Models to Population Rate Part I* (Laureline Logiaco) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/Logiaco_v2019.pdf)  [more Material](https://neuronaldynamics.epfl.ch/online/Ch14.S1.html) 
+[Exercise](https://neuronaldynamics.epfl.ch/online/Ch14.Sx2.html) 
 * Mar 27 *From Spiking Models to Population Rate Part II* (Laureline Logiaco)  
 * Apr 03 *Inhibition Stabilized Networks & Supralinear Stabilized Networks* (Mario Dipoppa) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/mario-session-1.zip)  
 * Apr 10 *Neural Variability in Rate Models, Spiking vs. Rate Models* (Mario Dipoppa) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/mario-session-2.zip)   
@@ -32,9 +32,8 @@ Wednesdays, 10.15 - 11.45 am
 ### Learning in Recurrent Networks
 * May 01 *Intro. Learning in Recurrent Networks, Backprop Through Time* (Rainer Engelken) [Material](Cueva2018_THESIS_chapter1.pdf) [Code in Flux/Julia](train_vanilla_RNN_to_generate_sine_wave_in_Julia.ipynb) [Code in PyTorch/Python](train_vanilla_RNN_to_generate_square_wave_in_PyTorch.ipynb) 
 * May 08 *Least-Squares, RLS, FORCE, Kalman Filters* (James Murray) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/RLS_Lecture_May2019.pdf)  [Notebook with Exercise](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/FORCE_Example_Homework2.ipynb)
-* May 15 *Dynamic Mean Field Theory for Low-Rank Static Solutions* (Rainer Engelken)  [Material](https://arxiv.org/pdf/1809.02386.pdf) 
+* May 15 *Dynamic Mean Field Theory for Low-Rank Static Solutions* (Rainer Engelken) [Material](https://arxiv.org/pdf/1809.02386.pdf) 
 * May 22 *Control Theory for Low-Rank Static Solutions* (James Murray) [Material](https://github.com/RainerEngelken/neurotheory-seminar-2019/blob/master/RNN_Stability_Lecture_JM.pdf)
-
 * May 29 *Hackathon/Mean-Field-athon*  
 
 ![visualization of low-dimensional attractor of chaotic firing-rate network by Rainer Engelken](chaotic-attractor-firing-rate-network-dynamics-rainer_engelken.JPG)
